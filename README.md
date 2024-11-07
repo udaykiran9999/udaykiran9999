@@ -9,3 +9,5 @@
 But beyond the screen, my world’s a lot bigger. With a camera in hand, I’m constantly exploring new places, capturing the raw essence of each journey. Photography lets me blend my love for adventure and visual storytelling. It’s like data visualization but with the world as my canvas. Whether I’m deep in code or standing on a mountaintop, I’m always connecting dots, chasing fresh perspectives, and finding beauty in the details. 
 
 For me, every journey,whether it’s through data or distant landscapes, is a chance to explore, connect, and create.</p>
+
+<h2>My Works:</h2>
