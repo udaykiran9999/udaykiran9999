@@ -1,6 +1,5 @@
 <p>Hey Hi, Great to see you here, This is</p>
 <h1>Uday Kiran Reddy Thalakanti 🤝</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74427&width=435&lines=Data+Enthusiast 📖;Data+Engineer 💻;Python+Developer 🐍;Photographer 📸" alt="Typing SVG" /></a>
 
 <p>By day, I’m a data wizard, building frameworks and making sense of raw information, wielding Python like a digital paintbrush to bring complex patterns to life. Engineering data solutions is my way of solving puzzles, it’s all about uncovering insights and transforming data into a story anyone can understand.
 
